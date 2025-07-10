@@ -30,7 +30,7 @@ err := httpclient.New().WithAuth("token").JSON("GET", "https://api.example.com/u
 ## Installation
 
 ```bash
-go get github.com/yourorg/httpclient
+go get github.com/syntaxLabz/go-clien
 ```
 
 ## Quick Start
